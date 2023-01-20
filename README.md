@@ -8,6 +8,17 @@ Introduction to Python -
 4. Rectangular area
 
 Conditionals and Loops -
+
+Theory:
+1. Boolean data type
+2. IF-ELSE
+3. Using Relational & Logical Operators
+4. Using ELSE-IF
+5. Nested Conditionals
+6. While Loop
+7. Primality Checking
+8. Nested Loops
+Questions:
 1. Check number
 2. Sum of n numbers
 3. Sum of even numbers
