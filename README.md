@@ -14,7 +14,7 @@ Conditionals and Loops:
 8. Nested Loops
 9. Questions
 
-Patterns 
+Patterns - Solving questions on patterns generally helps you to write while loops better
 
 More on Loops:
 1. For Loop and Range Method
