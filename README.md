@@ -18,10 +18,10 @@ Patterns - Solving questions on patterns generally helps you to write while loop
 
 More on Loops
 
-Strings, list and 2D list -
+Strings, list and 2D list 
 
-Functions -
+Functions 
 
-Tuples, dictionary and sets -
+Tuples, dictionary and sets 
 
 OOPs(Object oriented programming) 
