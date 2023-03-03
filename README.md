@@ -16,9 +16,7 @@ Conditionals and Loops:
 
 Patterns - Solving questions on patterns generally helps you to write while loops better
 
-More on Loops:
-1. For Loop and Range Method
-2.
+More on Loops
 
 Strings, list and 2D list -
 
