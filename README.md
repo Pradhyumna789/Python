@@ -14,7 +14,7 @@ Conditionals and Loops:
 8. Nested Loops
 9. Questions
 
-Patterns - Solving questions on patterns generally helps you to write while loops better
+Solving Problems on Patterns using While Loops 
 
 More on Loops
 
@@ -25,3 +25,7 @@ Functions
 Tuples, dictionary and sets 
 
 OOPs(Object oriented programming) 
+
+Numpy
+
+Pandas
