@@ -26,6 +26,3 @@ Tuples, dictionary and sets
 
 OOPs(Object oriented programming) 
 
-Numpy
-
-Pandas
