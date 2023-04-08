@@ -12,7 +12,7 @@ Conditionals and Loops:
 6. While Loop
 7. Primality Checking
 8. Nested Loops
-9. Questions
+
 
 Solving Problems on Patterns using While Loops 
 
