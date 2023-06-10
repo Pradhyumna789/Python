@@ -26,3 +26,4 @@ Tuples, dictionary and sets
 
 OOPs(Object oriented programming) 
 
+Intermediate Python - File handling and exploring API's in Python 
